@@ -1,0 +1,2 @@
+# Corona-Virus-Dashboard
+Obtained worldwide coronavirus (Covid19) data from John Hopkins University GitHub repository. Data requires to be pre-processed and needs many transformations so that it is ready for visualization in Power BI.  Pre-processed the data using Python programming language and Jupyter Notebook as an IDE. Finally transferred the processed data into Power BI and started visualizing it using many different different types of graphs and charts. And also forecasted it to see the trends and the upcoming number of Covid19 positive cases.
